@@ -12,3 +12,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - Añadimos unos .txt para saludar al profesor
 
+## [1.1.1] - 2021-12-20
+### Added
+- Creamos rama feature para pruebas con sam local.
