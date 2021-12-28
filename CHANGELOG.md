@@ -19,3 +19,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [1.2.0] - 2021-12-28
 ### Added
 - Trasteamos con el SAM tanto local como AWS, se configuran los buckets en el samconfig.toml
+
+## [1.2.1] - 2021-12-28
+### Added
+- Se mergea la rama feature con rama develop para pipeline de staging de Jenkins
