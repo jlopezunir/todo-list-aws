@@ -147,5 +147,3 @@ def create_todo_table(dynamodb):
 
     return table
     
-    if __name__ == '__main__':  # pragma: no cover
-    unittest.main()
