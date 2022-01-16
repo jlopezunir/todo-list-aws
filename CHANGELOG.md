@@ -23,3 +23,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [1.2.1] - 2021-12-28
 ### Added
 - Se mergea la rama feature con rama develop para pipeline de staging de Jenkins
+## [1.3.0] - 2022-01-16
+### Added
+- Mergeamos rama develop con Master tras conseguir superar el 80% de coverage para las pruebas de integración de la pipeline de Staging. Pase a PRO
